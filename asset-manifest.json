@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lottery/static/css/main.bac4da6c.chunk.css",
+    "main.js": "/lottery/static/js/main.d7a1b046.chunk.js",
+    "main.js.map": "/lottery/static/js/main.d7a1b046.chunk.js.map",
+    "runtime-main.js": "/lottery/static/js/runtime-main.616fde27.js",
+    "runtime-main.js.map": "/lottery/static/js/runtime-main.616fde27.js.map",
+    "static/js/2.5768adac.chunk.js": "/lottery/static/js/2.5768adac.chunk.js",
+    "static/js/2.5768adac.chunk.js.map": "/lottery/static/js/2.5768adac.chunk.js.map",
+    "index.html": "/lottery/index.html",
+    "precache-manifest.67fe4b9048414a954b7ce6d18e353a39.js": "/lottery/precache-manifest.67fe4b9048414a954b7ce6d18e353a39.js",
+    "service-worker.js": "/lottery/service-worker.js",
+    "static/css/main.bac4da6c.chunk.css.map": "/lottery/static/css/main.bac4da6c.chunk.css.map",
+    "static/js/2.5768adac.chunk.js.LICENSE.txt": "/lottery/static/js/2.5768adac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616fde27.js",
+    "static/js/2.5768adac.chunk.js",
+    "static/css/main.bac4da6c.chunk.css",
+    "static/js/main.d7a1b046.chunk.js"
+  ]
+}
